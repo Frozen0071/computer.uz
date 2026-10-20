@@ -1,0 +1,17 @@
+{
+  "name": "computer-for-beginners",
+  "version": "1.0.0",
+  "description": "Обучающий интерактивный курс: Компьютер простыми словами",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "education",
+    "beginners",
+    "computer-basics",
+    "interactive"
+  ],
+  "author": "",
+  "license": "MIT"
+}
